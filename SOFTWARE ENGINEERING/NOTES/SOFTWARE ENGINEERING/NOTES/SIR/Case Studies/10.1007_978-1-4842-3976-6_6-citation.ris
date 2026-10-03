@@ -1,0 +1,17 @@
+TY  - CHAP
+AU  - Krishna Kaiser, Abhinav
+A2  - Krishna Kaiser, Abhinav
+PY  - 2018
+DA  - 2018//
+TI  - Managing Configurations in a DevOps Project
+BT  - Reinventing ITIL® in the Age of DevOps: Innovative Techniques to Make Processes Agile and Relevant
+SP  - 135
+EP  - 162
+PB  - Apress
+CY  - Berkeley, CA
+AB  - Most projects fail because of the lack of managing configurations and having total control over the various components that make a project tick. Configuration management is the foundation upon which the entire project is built. Giving no care to the foundation will logically see the walls and roofs of the project crumbling down in record time. Configuration management plays a significant role for systems made up of multiple components that are integrated with other systems and run on multiple dependencies. Sound familiar? Yes, most systems today are complex owing to the need for integration and its respective data sources and data consumers. In such a complicated setup, it is imperative that systems are driven by configuration management, which is relied on heavily by projects, which, in our context, are DevOps projects.
+SN  - 978-1-4842-3976-6
+UR  - https://doi.org/10.1007/978-1-4842-3976-6_6
+DO  - 10.1007/978-1-4842-3976-6_6
+ID  - Krishna Kaiser2018
+ER  - 

@@ -1,0 +1,19 @@
+Make Master's exam notes for: velopment 
+  )
+
+Use my exam style:
+Definition → Figure/Chart → Short Pointwise Explanation → (Importance  → Example → Advantages/
+Disadvantages if relevant)->conclusion
+
+Prefer diagrams, flowcharts, cycles,circle, tables and graphical representations over long paragraphs.
+Types using Tree/Hierarchy (if relevant)
+Make it:
+- Easy to memorize
+- Easy to reproduce in exam
+- Master's level
+- Technically correct
+- Pointwise
+- Exam-oriented
+-emphasize analysis, application, comparison, case studies, and design
+
+Also 8-mark versions.

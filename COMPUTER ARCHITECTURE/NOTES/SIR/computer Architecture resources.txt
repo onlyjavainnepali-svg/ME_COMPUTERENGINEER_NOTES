@@ -1,0 +1,9 @@
+Computer Architecture:
+https://github.com/kpsubedi/computer_architecture/blob/master/linux_assembly/lab_setup
+https://github.com/kpsubedi/computer_architecture/blob/master/linux_assembly/assembly-32/what_is_assembly.org
+https://github.com/kpsubedi/computer_architecture/blob/master/prerequisite/gdb_guide
+https://github.com/kpsubedi/computer_architecture/blob/master/prerequisite/tools
+https://github.com/kpsubedi/OS/blob/master/systemcall/tools.txt
+
+Linux Kernel
+https://github.com/kpsubedi/OS/blob/master/linux/kernel.txt

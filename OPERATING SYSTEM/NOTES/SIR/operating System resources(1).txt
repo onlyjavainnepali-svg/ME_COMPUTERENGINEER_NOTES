@@ -1,0 +1,8 @@
+https://wiki.osdev.org/Expanded_Main_Page
+https://www.os-book.com/
+https://www.os-book.com/OS10/slide-dir/index.html
+https://pages.cs.wisc.edu/~remzi/OSTEP/
+https://github.com/kpsubedi/OS/
+https://github.com/rangaeeeee/books-raspberrypimagazines/blob/master/The%20Linux%20Programming%20Interface-Michael%20Kerrisk.pdf
+https://github.com/kpsubedi/OS/blob/master/linux/process_hw1.c
+

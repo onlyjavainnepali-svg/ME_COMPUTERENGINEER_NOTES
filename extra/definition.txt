@@ -1,0 +1,18 @@
+definition
+step
+example
+advantages disad
+analysis
+application
+
+Definition & Concept: Direct questions asking to define or explain a data structure/algorithm (e.g., What is Cuckoo Hashing?, Define Convex Hull, Explain Big O, Big Theta, Big Omega).
+
+Step-by-step Algorithms & Processes: Requests to describe how an algorithm works step-by-step or write pseudo-code (e.g., Write an algorithm for Bellman-Ford, Describe the insertion process in an R-tree / KD-tree / Quadtree).
+
+Numerical / Tracing Examples: Hand-solving problems step-by-step with given numbers or graphs (e.g., Find shortest path using Bellman-Ford, Construct Huffman Tree / Perfect Hash / Cuckoo Hash, Sort using Radix / Quick Sort, Find MST using Kruskal's, Compute Max Flow using Ford-Fulkerson).
+
+Advantages & Disadvantages / Comparisons: Direct contrast between two algorithms or structures (e.g., B-Tree vs B+ Tree, Cache-Conscious vs Cache-Oblivious, Dijkstra vs Bellman-Ford, Dynamic Programming vs Greedy).
+
+Complexity Analysis: Deriving or stating best-case, worst-case, and average-case time/space complexities (e.g., Analyse best/worst case of Quick Sort, Derive time complexity of Bucket/Counting Sort, Logarithmic cost of Binary Search).
+
+Applications & Real-World Use Cases: Explaining practical engineering applications (e.g., Database indexing, Social network user recommendations, Spatial data storage, Circuit layout design, Data compression in embedded systems)
